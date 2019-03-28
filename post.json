@@ -1,0 +1,17 @@
+{
+    "author": "some_author_name",
+    "content": "Some thoughts that author wants to share",
+    "timestamp": "The time at which the content was created"
+}
+
+{
+    "nodes": ["http://localhost:8000",
+              "http://localhost:8001",
+              "http://localhost:8002" ]
+}
+
+{
+    "nodes": ["localhost:8000",
+              "localhost:8001",
+              "localhost:8002" ]
+}
